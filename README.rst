@@ -1,3 +1,5 @@
+TESTTESTEST
+
 ============
 Introduction
 ============
@@ -9,7 +11,9 @@ access DF memory and allow for easier development of new tools.
 
 .. contents::
     
+
 ==============
+
 Getting DFHack
 ==============
 The project is currently hosted on github_, for both source and
