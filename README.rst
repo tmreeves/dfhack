@@ -1,5 +1,3 @@
-TESTTESTEST
-
 ============
 Introduction
 ============
