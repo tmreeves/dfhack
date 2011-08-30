@@ -1,5 +1,3 @@
-TESTING EDIT THIS IS TERRYDACTYL EDITING A FILE ON GITHUB.
-
 ============
 Introduction
 ============
